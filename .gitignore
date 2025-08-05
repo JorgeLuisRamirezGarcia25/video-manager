@@ -1,0 +1,50 @@
+# Archivos de audio descargados
+*.mp3
+*.mp4
+*.m4a
+*.ogg
+*.wav
+*.webm
+*.part
+
+# Archivos de letras de canciones
+*.txt
+!README.md
+!requirements.txt
+
+# Entornos virtuales
+venv/
+.venv/
+mi_entorno/
+ven/
+path/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración específicos
+config.json
+download_progress.json
+wget-log*
+
+# Archivos de backup
+*_backup.py
+*_old.py
+*_broken.py
+*_moderno.py
+*.backup
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Librerías compartidas
+*.so
+*.so.*
+
+# Archivos específicos del sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+yt-dlp>=2023.12.30
+tkinterdnd2>=0.3.0
+Pillow>=10.0.0
+pathlibdlp>=2023.12.30
+tkinterdnd2>=0.3.0
+pillow>=10.0.0
